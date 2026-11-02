@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Self Provisioner</string>
+    <string name="start">Start self provision</string>
+    <string name="automate">Automate developer options</string>
+    <string name="accessibility_guide">Accessibility guide</string>
+    <string name="developer_guide">Developer mode guide</string>
+    <string name="set_account_frp">Set account FRP</string>
+    <string name="set_organization_name">Set organization name</string>
+    <string name="remove_device_owner">Remove device owner</string>
+    <string name="status_idle">Waiting to start.</string>
+    <string name="default_web_client_id" translatable="false"></string>
+</resources>
